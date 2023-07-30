@@ -1,6 +1,8 @@
 # Bangla-Financial-news-articles-Dataset
 A Comprehensive Resource for Analyzing Sentiments in over 7600+ Bangla News.
 
+### Downloads
+🔴 **Download** the **"Bangla_fin_news.zip"** file and extract it.
 
 ### About Dataset
 
