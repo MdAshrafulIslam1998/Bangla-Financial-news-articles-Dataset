@@ -12,6 +12,7 @@ This dataset was a crucial part of our research published in the journal paper t
 
 We are excited to share this unique dataset, which we hope will empower researchers, analysts, and enthusiasts to explore and understand the dynamics of the Bengali financial market through sentiment analysis. Join us on this journey of uncovering the hidden emotions driving market trends and decisions in Bangladesh. Happy analyzing!
 
+Kaggle: **https://www.kaggle.com/datasets/mdashrafulislam1998/bangla-financial-news-articles-dataset**
 
 
 ### About this directory
